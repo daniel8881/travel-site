@@ -1,0 +1,34 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniel8881/travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel8881/travel-site/issues"
+  },
+  "homepage": "https://github.com/daniel8881/travel-site",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^8.2.0",
+    "postcss-mixins": "^5.4.0",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0"
+  }
+}
