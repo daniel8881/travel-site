@@ -74,8 +74,8 @@
     }
   }
 
-  &--equal-height-at-large {
-    @mixin atLarge {
+  &--equal-height-at-medium {
+    @mixin atMedium {
       display: flex;
     }
 
