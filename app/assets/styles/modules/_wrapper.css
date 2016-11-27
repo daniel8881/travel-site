@@ -1,7 +1,7 @@
 .wrapper {
   padding-right: 18px;
   padding-left: 18px;
-  max-width: 1236px;
+  max-width: 960px;
   margin-right: auto;
   margin-left: auto;
   overflow: hidden;
@@ -16,6 +16,16 @@
 
   &--medium {
     max-width: 976px;
+  }
+
+  &--no-padding {
+    padding-right: 0;
+    padding-left: 0;
+
+    @mixin atLarge {
+      padding-right: 18px;
+      padding-left: 18px;
+    }
   }
 
   .wrapper {
