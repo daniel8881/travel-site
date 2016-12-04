@@ -19,6 +19,7 @@
   "dependencies": {
     "jQuery": "^1.7.4",
     "jquery-smooth-scroll": "^2.0.0",
+    "lazysizes": "^3.0.0-rc2",
     "normalize.css": "^5.0.0",
     "waypoints": "^4.0.1"
   },

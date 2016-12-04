@@ -18,6 +18,10 @@
     max-width: 976px;
   }
 
+  &--narrow {
+    max-width: 470px;
+  }
+
   &--no-padding {
     padding-right: 0;
     padding-left: 0;
