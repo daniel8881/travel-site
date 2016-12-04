@@ -9,6 +9,10 @@
     background-color: $orange;
   }
 
+  &--blue {
+    background-color: $blue;
+  }
+
   &--large {
     
     padding:  1.1rem 1.9rem;

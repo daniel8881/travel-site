@@ -4,6 +4,9 @@
   .icon {
    background-image: url('/assets/images/sprites/sprite-0f9283b3.svg');
   }
+  .no-svg .icon {
+   background-image: url('/assets/images/sprites/sprite-0f9283b3.png');
+  }
   .icon--clear-view-escapes {
     width: 142.4px;
     height: 59.53px;
@@ -77,7 +80,7 @@
   .icon--wifi {
     width: 60px;
     height: 64px;
-    background-position: 68.89227053140097% 0
+    background-position: 68.99227053140097% 0
 
   }
 
